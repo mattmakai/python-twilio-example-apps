@@ -1,5 +1,14 @@
 # python-twilio-example-apps
-Example web apps built with a range of frameworks that use [Twilio](https://www.twilio.com/docs).
+Example code built either with 
+[web frameworks](https://www.fullstackpython.com/web-frameworks.html) 
+or without a framework to show how to use 
+[Twilio](https://www.twilio.com/docs) in your own applications.
+
+
+## No framework
+* [Twilio Voice](https://github.com/mattmakai/python-twilio-example-apps/tree/master/no-framework/phone-calls) 
+  for making and receiving phone calls
+
 
 ## Bottle
 The following projects use the 
@@ -12,6 +21,6 @@ API functions.
 
 
 ### Coming soon
-* Flask, Django, Morepath, Pyramid
-
+* [Flask](https://www.fullstackpython.com/flask.html), 
+  Django, Morepath, Pyramid
 
