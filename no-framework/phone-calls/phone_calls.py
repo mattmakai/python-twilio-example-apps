@@ -10,7 +10,7 @@ DIAL_NUMBERS = ["",]
 
 # URL location of TwiML instructions for how to handle the phone call
 TWIML_INSTRUCTIONS_URL = \
-  "https://www.fullstackpython.com/source/static/twiml/phone-calls-python.xml"
+  "http://static.fullstackpython.com/phone-calls-python.xml"
 
 # replace the placeholder values with your Account SID and Auth Token
 # found on the Twilio Console: https://www.twilio.com/console
