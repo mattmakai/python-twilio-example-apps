@@ -9,6 +9,8 @@ or without a framework to show how to use
 * [Twilio Voice](https://github.com/mattmakai/python-twilio-example-apps/tree/master/no-framework/phone-calls) 
   for making and receiving phone calls
 
+## Django
+* [Programmable SMS](django/djsms)
 
 ## Bottle
 The following projects use the 
@@ -21,6 +23,5 @@ API functions.
 
 
 ### Coming soon
-* [Flask](https://www.fullstackpython.com/flask.html), 
-  Django, Morepath, Pyramid
+* [Flask](https://www.fullstackpython.com/flask.html), Morepath, Pyramid
 
