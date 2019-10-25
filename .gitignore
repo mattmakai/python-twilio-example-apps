@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+**/.env
+**/db.sqlite3
+**/*.swp
