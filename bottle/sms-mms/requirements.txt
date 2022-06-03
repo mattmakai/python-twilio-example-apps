@@ -1,2 +1,2 @@
-bottle==0.12.10
+bottle==0.12.20
 twilio==5.6.0
